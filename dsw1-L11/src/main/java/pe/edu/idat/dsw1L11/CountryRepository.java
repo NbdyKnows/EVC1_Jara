@@ -24,7 +24,7 @@ public class CountryRepository {
 
 		Country martes = new Country();
 		martes.setName("martes");
-		martes.setCapital("Thursday");
+		martes.setCapital("Tuesday");
 
 		countries.put(martes.getName(), martes);
 
